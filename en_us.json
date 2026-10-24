@@ -1,0 +1,5 @@
+{
+  "key.autoreroll.toggle": "Start / Stop auto reroll (in enchant GUI)",
+  "key.autoreroll.config": "Open AutoReroll settings",
+  "category.autoreroll": "AutoReroll"
+}
